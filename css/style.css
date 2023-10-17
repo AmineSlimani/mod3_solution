@@ -1,0 +1,34 @@
+body{
+    font-family:Verdana, Geneva, Tahoma, sans-serif !important;
+    font-weight: bolder !important;
+    color: black !important;
+
+}
+nav {
+    background-color: #999999 !important;
+    color: black;
+}
+.navbar-toggler:hover {
+    color: aliceblue !important;
+} 
+.navbar-collapse {
+    margin: 20px -12px -8px -12px!important;
+}
+.fa-solid fa-bars:hover , .fa-solid fa-bars:active {
+    color: aliceblue !important;
+}
+.navbar-nav {
+    background-color: aliceblue !important;
+}
+.navbar-nav .nav-item {
+    border-bottom: black solid 1px !important;
+}
+.navbar-brand {
+    font-size: 1.5em !important;
+}
+.navbar-toggler-icon{
+    color: white !important;
+}
+.container {
+    width: 85% !important;
+}
